@@ -1,0 +1,4 @@
+interface:
+  display_name: "北美短视频创意与拆解"
+  short_description: "Analyze videos and write English hooks and scripts"
+  default_prompt: "Use $north-america-video-creative to break down this reference video and turn its structure into original English hooks and a shootable script."
