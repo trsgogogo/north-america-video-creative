@@ -1,6 +1,36 @@
-# Hook library
+# 06  Four creative layers and 36 hook families
 
-Default: 10 distinct hooks, shortlist 3, expand one main script. Generate all 36 only when requested. Prefer benefit-first declarative openings; adapt tone to the brief. Every example below is illustrative.
+Sequence: establish the buyer job and evidence → choose a hook mechanism → choose a script format → choose a body structure. Add an article framework only when adapting source material. These are creative options, not performance rankings or conversion guarantees.
+
+| Format | Structure |
+| --- | --- |
+| Story/case | Outcome or obstacle → buyer → 2–3 causal stages → honest outcome → product role → CTA. Without a true case, label dramatization or choose education. |
+| Relatable comedy | Familiar situation → expectation → specific reversal → useful resolution → CTA. Make satire clear; do not fabricate allegations. |
+| Education | Useful payoff → specific problem → actionable steps → demonstration/check → CTA. |
+| Process/build in public | Actual result or stated goal → meaningful actions → obstacle/tradeoff → visible check → result and limit → CTA. Time-lapse must not imply real completion speed. |
+
+| Body structure | Full sequence |
+| --- | --- |
+| PREP | Point → Reason → Example → Point |
+| Contrast | Wrong approach → Negative result → Right method → Positive result |
+| FIRE | Fact → Interpretation → Reaction → Ends |
+| RIDE | Risk → Interest/Benefit → Difference → Effect |
+| Personal-brand/IP | Pain point → Audience gain → Brand trust → Solution |
+
+| Article framework | Structure |
+| --- | --- |
+| Pain-Point Resonance | Pain→story→solution→emotional summary→CTA |
+| Warm and Healing | Warm opening→story→emotional analysis→advice→reflection |
+| Suspense-Led | Suspense→build-up→turn→resolution→CTA |
+| Famous Person’s Story | Figure→details→resonance→insight→sharing |
+| Before-and-After Contrast | Contrast→details→analysis→solution→CTA |
+| Small Details That Move Us | Detail→story→meaning→summary→sharing |
+| Emotional Dialogue | Dialogue→development→conflict→resolution→summary |
+| Nostalgia and Memory | Memory→story→emotion→present link→reflection |
+| Growing Through Hardship | Hardship→experience→turn→methods→encouragement |
+| Inspirational Insight | Inspiration→story→resonance→advice→CTA |
+
+The following 36 families preserve the supplied document numbering. English examples are creative angles, not verified results; Chinese labels and conditions are working translations. Select suitable families for ten candidates by default rather than generating every family each time.
 
 ## 01  Target the audience
 

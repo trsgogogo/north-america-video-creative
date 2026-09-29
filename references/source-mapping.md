@@ -18,3 +18,4 @@ The source training materials are not distributed with this repository. Examples
 This is a short-video analysis and creative workflow. It does not replace market-entry strategy, establish product-market fit, guarantee virality, render finished videos, or authorize publication.
 
 The MIT license covers the material distributed in this repository. It does not grant rights to third-party reference videos, music, logos, source documents or other media a user may bring to the workflow.
+

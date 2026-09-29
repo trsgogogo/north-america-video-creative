@@ -29,3 +29,4 @@ Product/operations → creator: actual capabilities, availability and fulfillmen
 Track: asset/version | observation and source | interpretation | next edit | owner | due date | check/result. Close a feedback item when its change and review are recorded. These are workflow roles, not automatic subagents or authorization to send external messages.
 
 Final deliverable: revised creative, explanation of material changes, next test and unresolved evidence gaps. Publishing and paid tests require the actual user authorization and available execution tools; do not schedule recurring work just because this SOP mentions iteration.
+

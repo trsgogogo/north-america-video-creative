@@ -1,6 +1,9 @@
 .DS_Store
 .env
 .env.*
-*.docx
-source-text/
+!.env.example
 __pycache__/
+*.pyc
+runs/
+raw/
+node_modules/

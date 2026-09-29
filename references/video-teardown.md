@@ -36,3 +36,4 @@ Then write a complete original script and production brief using scripts.md, unl
 ## Without performance data
 
 Use “may help because…” or “test whether…” for effect claims. Offer a falsifiable test, e.g. same body/CTA with two different openings, compared on a consistently defined early-view metric and downstream qualified actions. Do not conclude that the hook caused the reference's success.
+

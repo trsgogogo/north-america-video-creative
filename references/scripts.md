@@ -47,3 +47,4 @@ Internal production note: confirm transaction model and fulfillment before publi
 | 23–30s | Send the same brief to each supplier. Give yourself something useful to compare. | Side-by-side blank comparison | Supply the brief if promising a download |
 
 This demonstrates educational/process writing. It is not a report of a recorded video or an executed benchmark.
+
